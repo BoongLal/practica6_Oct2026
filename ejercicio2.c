@@ -8,7 +8,7 @@ void main()
 {
     int entnum;
     char carac=65;// convierte el número en caraćter ASCII
-    char carac2='a'
+    char carac2='a';
     double punto;
     
     //Asignar valores de teclado a una variable
