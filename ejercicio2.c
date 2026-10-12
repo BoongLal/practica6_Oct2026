@@ -1,4 +1,4 @@
-/*Valeria IraIS rAMÍREZ sÁNCHEZ
+/*Valeria Irais Ramírez Sánchez
 Practica 6
 Ejercicio de tiposde variables; entradas y salidas*/
 
